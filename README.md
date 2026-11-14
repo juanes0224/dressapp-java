@@ -1,5 +1,9 @@
 # DressApp — calculador de outfits por puntaje (Java, terminal)
 
+**Proyecto final — Análisis y Diseño de Algoritmos**
+
+**Integrantes:** Mateo Duque · Sofía Rojo · Juan Esteban Grisales
+
 Implementación en Java puro de la lógica de DressApp (`DressApp_Plan_de_trabajo.pdf`):
 el usuario registra las prendas de su closet y, al elegir un evento, recibe los outfits con
 mejor puntaje. **Sin IA y sin interfaz gráfica**: la decisión la toma un motor propio y

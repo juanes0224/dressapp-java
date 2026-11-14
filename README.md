@@ -44,7 +44,6 @@ En IntelliJ: marca `src` como *Sources Root* y ejecuta `com.dressapp.app.Main`.
 
 **Para presentar:** la opción **15 (demostración guiada)** recorre el flujo completo en
 6 pasos, y la **14 (autoverificación)** corre 60 chequeos de correctitud en un par de segundos.
-Para grabar un video corto del funcionamiento, sigue [GUIA_VIDEO.md](GUIA_VIDEO.md).
 
 ## Menú
 
